@@ -68,7 +68,7 @@
 
         <div class="collapse navbar-collapse" id="navbarSupport">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
+            <li class="nav-item ">
               <a class="nav-link" href="home.aspx">Home</a>
             </li>
             <li class="nav-item">
@@ -78,7 +78,7 @@
               <a class="nav-link" href="doctor.aspx">Doctors</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="home.aspx">News</a>
+              <a class="nav-link" href="News.aspx">News</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.aspx">Contact</a>
